@@ -145,3 +145,6 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart                                                                                                                                       | pub.dev      |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)            | Open Source :heavy_check_mark:, Based on OpenAPI specification :heavy_check_mark:, From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark: | NuGet        |
 | [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart)        | Dart client for Ollama API                                                                                                                                                  | pub.dev      |
+
+
+- [Neurofunnel](https://github.com/wolowizardnft2022/neurofunnel) - Local-first autonomous AI agent with hardware-aware model compression funnel, memory, planning, and 80+ tools on Ollama.
